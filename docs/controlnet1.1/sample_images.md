@@ -4,125 +4,130 @@
 ## **Openpose Hand**
 <br>
 
-|  ポーズ画像  |  生成画像(Anything V4.5)  |
+|  元画像 |  ポーズ画像  |
 | ---- | ---- |
-|  ![](images/hand2.jpg)  |  ![](images/hand3.jpg)
+|  ![](images/hand1.jpg)  |  ![](images/hand2.jpg) |
 
 
-|  基になった画像  | 
+|  生成画像(Anything V4.5)   | 
 | ---- | 
-|  ![](images/hand1.jpg)  |
+|  ![](images/hand3.jpg)  |
 <br>
 
 ## **Openpose Face**
 <br>
 
-|  顔ランドマーク画像  |  生成画像(animelike2D)  |
+|  元画像  |  顔ランドマーク画像  |
 | ---- | ---- |
-|  ![](images/face2.jpg)  |  ![](images/face3.jpg)
-|  ![](images/face4.jpg)  |  ![](images/face5.jpg)
+|  ![](images/face1.jpg)  |  ![](images/face2.jpg)
 
-|  基になった画像  | 
-| ---- | 
-|  ![](images/face1.jpg)  |
+|  生成画像(animelike2D)  | 
+| ---- |
+|  ![](images/face3.jpg)  |
+|  ![](images/face4.jpg)  |
 <br>
 
 ## **Lineart Realistic**
 <br>
 
-|  ポーズ画像  |  生成画像(Stable diffusion1.5)  |
+|  元画像  |  Lineart  |
 | ---- | ---- |
-|  ![](images/lineartr2.png)  |  ![](images/lineartr3.png)
+|  ![](images/lineartr1.jpg)  |  ![](images/lineartr2.png)
 
 
-|  基になった画像  | 
+|  生成画像(Stable diffusion1.5)  | 
 | ---- | 
-|  ![](images/lineartr1.jpg)  |
+|  ![](images/lineartr3.png)  |
 <br>
 
 ## **Lineart Anime**
 <br>
 
-|  Lineart  |  生成画像(Anything V4.5)  |
+|  元画像  |  Lineart  |
 | ---- | ---- |
-|  ![](images/linearta2.jpg)  |  ![](images/linearta3.jpg)
+|  ![](images/linearta1.jpg)  |  ![](images/linearta2.jpg)
 
 
-|  基になった画像  | 
+|  生成画像(Anything V4.5)  | 
 | ---- | 
-|  ![](images/linearta1.jpg)  |
+|  ![](images/linearta3.jpg)  |
 <br>
 
 ## **Soft Edge**
 <br>
 
-|  Lineart  |  生成画像(Stable diffusion1.5)  |
+|  元画像  |  抽出画像  |
 | ---- | ---- |
-|  ![](images/se2.jpg)  |  ![](images/se3.jpg)
+|  ![](images/se1.jpg)  |  ![](images/se2.jpg)
 
 
-|  基になった画像  | 
+|  生成画像(Stable diffusion1.5)  | 
 | ---- | 
-|  ![](images/se1.jpg)  |
+|  ![](images/se3.jpg)  |
 <br>
 
 ## **Instruct Pix2Pix**
 <br>
 
-|  基になった画像  |  生成画像(Stable diffusion1.5)  |
-| ---- | ---- |
-|  ![](images/ip2p1.jpg)  |  ![](images/ip2p2.png)
+|  元画像  |
+| ---- |
+|  ![](images/ip2p1.jpg)  |
+
+|  生成画像(Stable diffusion1.5)  | 
+| ---- | 
+|  ![](images/ip2p2.png)
+  |
 
 <br>
 
 ## **Shuffle**
 <br>
 
-|  シャッフル画像  |  生成画像(Stable diffusion1.5)  |
+|  元画像  |  シャッフル画像  |
 | ---- | ---- |
-|  ![](images/shuffle2.png)  |  ![](images/shuffle3.png)
+|  ![](images/shuffle1.jpg)  |  ![](images/shuffle2.png)
 
 
-|  基になった画像  | 
+|  生成画像(Stable diffusion1.5)  | 
 | ---- | 
-|  ![](images/shuffle1.jpg)  |
+|  ![](images/shuffle3.png)  |
 <br>
 
 ## **Inpaint**
 <br>
 
-|  インペイント画像  |  生成画像(Stable diffusion1.5)  |
+|  元画像  |  インペイント画像  |
 | ---- | ---- |
-|  ![](images/inpaint2.jpg)  |  ![](images/inpaint3.jpg)
+|  ![](images/inpaint1.jpg)  |  ![](images/inpaint2.jpg)
 
 
-|  基になった画像  | 
+|  生成画像(Stable diffusion1.5)  | 
 | ---- | 
-|  ![](images/inpaint1.jpg)  |
+|  ![](images/inpaint3.jpg)  |
 <br>
 
 ## **Depth Zoe**
 <br>
 
-|  抽出画像  |  生成画像(Stable diffusion1.5)  |
+|  元画像  |  抽出画像  |
 | ---- | ---- |
-|  ![](images/dz2.png)  |  ![](images/dz3.png)
+|  ![](images/dz1.jpg)  |  ![](images/dz2.png)
 
 
-|  基になった画像  | 
+|  生成画像(Stable diffusion1.5)  | 
 | ---- | 
-|  ![](images/dz1.jpg)  |
+|  ![](images/dz3.png)  |
 <br>
 
 ## **Segmentation**
 <br>
 
-|  抽出画像  |  生成画像(Stable diffusion1.5)  |
+|  元画像  |  抽出画像  |
 | ---- | ---- |
-|  ![](images/seg2.png)  |  ![](images/seg3.png)
+|  ![](images/seg1.jpg)  |  ![](images/seg2.png)
 
 
-|  基になった画像  | 
+|  生成画像(Stable diffusion1.5)  | 
 | ---- | 
-|  ![](images/seg1.jpg)  |
+|  ![](images/seg3.png)  |
 <br>
