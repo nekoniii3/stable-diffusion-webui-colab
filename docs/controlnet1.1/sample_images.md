@@ -50,7 +50,7 @@
 
 |  生成画像(Anything V4.5)  | 
 | ---- | 
-|  ![](images/linearta.jpg)  |
+|  ![](images/linearta3.jpg)  |
 <br>
 
 ## **Soft Edge**
@@ -63,7 +63,7 @@
 
 |  生成画像(Stable diffusion1.5)  | 
 | ---- | 
-|  ![](images/se.jpg)  |
+|  ![](images/se3.jpg)  |
 <br>
 
 ## **Instruct Pix2Pix**
@@ -103,7 +103,7 @@
 
 |  生成画像(Stable diffusion1.5)  | 
 | ---- | 
-|  ![](images/inpaint.jpg)  |
+|  ![](images/inpaint3.jpg)  |
 <br>
 
 ## **Depth Zoe**
