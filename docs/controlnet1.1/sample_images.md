@@ -24,6 +24,7 @@
 |  生成画像(animelike2D)  | 
 | ---- |
 |  ![](images/face3.jpg)  |
+|  ![](images/face4.jpg)  |
 <br>
 
 ## **Lineart Realistic**
