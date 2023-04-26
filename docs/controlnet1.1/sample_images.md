@@ -6,7 +6,7 @@
 
 |  ポーズ画像  |  生成画像(Anything V4.5)  |
 | ---- | ---- |
-|  ![](images/hand2.png)  |  ![](images/hand3.png)
+|  ![](images/hand2.jpg)  |  ![](images/hand3.jpg)
 
 
 |  基になった画像  | 
