@@ -1,7 +1,7 @@
 # **ControlNet1.1のサンプル画像です**
-※基になったポーズはすべて[ぱくたそ](https://www.pakutaso.com/)さんから使用しています
+※基になったポーズは[ぱくたそ](https://www.pakutaso.com/)さん[Pixabay](https://pixabay.com/)から使用しています
 
-## **Openpose Hand**
+## **Openpose Hand（手を含むポーズ抽出）**
 <br>
 
 |  元画像 |  ポーズ画像  |
@@ -14,7 +14,7 @@
 |  ![](images/hand3.jpg)  |
 <br>
 
-## **Openpose Face**
+## **Openpose Face（顔を含むポーズ抽出）**
 <br>
 
 |  元画像  |  顔ランドマーク画像  |
@@ -27,7 +27,7 @@
 |  ![](images/face4.jpg)  |
 <br>
 
-## **Lineart Realistic**
+## **Lineart Realistic（線画抽出）**
 <br>
 
 |  元画像  |  Lineart  |
@@ -40,7 +40,7 @@
 |  ![](images/lineartr3.png)  |
 <br>
 
-## **Lineart Anime**
+## **Lineart Anime（アニメ向け線画抽出）**
 <br>
 
 |  元画像  |  Lineart  |
@@ -53,7 +53,7 @@
 |  ![](images/linearta3.jpg)  |
 <br>
 
-## **Soft Edge**
+## **Soft Edge（輪郭線抽出）**
 <br>
 
 |  元画像  |  抽出画像  |
@@ -66,7 +66,8 @@
 |  ![](images/se3.jpg)  |
 <br>
 
-## **Instruct Pix2Pix**
+## **Instruct Pix2Pix（プロンプトによる画像編集）**
+**プロンプト：make it on fire**
 <br>
 
 |  元画像  |
@@ -80,7 +81,7 @@
 
 <br>
 
-## **Shuffle**
+## **Shuffle（画像の再構成）**
 <br>
 
 |  元画像  |  シャッフル画像  |
@@ -93,7 +94,7 @@
 |  ![](images/shuffle3.png)  |
 <br>
 
-## **Inpaint**
+## **Inpaint（画像の一部分のみ修正）**
 <br>
 
 |  元画像  |  インペイント画像  |
@@ -106,7 +107,7 @@
 |  ![](images/inpaint3.jpg)  |
 <br>
 
-## **Depth Zoe**
+## **Depth Zoe（深度抽出）**
 <br>
 
 |  元画像  |  抽出画像  |
@@ -119,7 +120,7 @@
 |  ![](images/dz3.png)  |
 <br>
 
-## **Segmentation**
+## **Segmentation（領域抽出）**
 <br>
 
 |  元画像  |  抽出画像  |
