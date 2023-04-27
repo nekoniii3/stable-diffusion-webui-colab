@@ -11,7 +11,7 @@
 
 |  生成画像(Anything V4.5)   | 
 | ---- | 
-|  ![](images/hand3.jpg)  |
+|  ![](images/hand3.jp)  |
 <br>
 
 ## **Openpose Face（顔を含むポーズ抽出）**
