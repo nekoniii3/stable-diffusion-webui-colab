@@ -50,7 +50,7 @@
 
 |  生成画像(Anything V4.5)  | 
 | ---- | 
-|  ![](images/linearta3.jpg)  |
+|  ![](images/linearta3.png)  |
 <br>
 
 ## **Soft Edge（輪郭線抽出）**
@@ -63,7 +63,7 @@
 
 |  生成画像(Stable diffusion1.5)  | 
 | ---- | 
-|  ![](images/se3.jpg)  |
+|  ![](images/se3.png)  |
 <br>
 
 ## **Instruct Pix2Pix（プロンプトによる画像編集）**
