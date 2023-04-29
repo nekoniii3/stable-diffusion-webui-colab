@@ -104,7 +104,7 @@
 
 |  生成画像(Stable diffusion1.5)  | 
 | ---- | 
-|  ![](images/inpaint3.jpg)  |
+|  ![](images/inpaint3.png)  |
 <br>
 
 ## **Depth Zoe（深度抽出）**
