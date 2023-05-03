@@ -8,7 +8,7 @@
 
 2023/4/22<br>
  ControlNet1.1に対応しました。（Ver1.1）<br>
-Openpose_hand、Lineartが利用できます。<br>
+Openpose_hand、Lineartなどが利用できます。<br>
  <br>
 
 ## **🚸注意🚸**
