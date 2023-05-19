@@ -7,8 +7,12 @@
  ※全てのモデルについて商用利用は推奨されてません<br>
 
 2023/4/22<br>
- ControlNet1.1に対応しました。（Ver1.1）<br>
+ControlNet1.1に対応しました。（Ver1.1）<br>
 Openpose_hand、Lineartなどが利用できます。<br>
+<br>
+2023/5/19<br>
+Realistic-Vision1.4を追加しました。<br>
+Reference-Only機能も使えるようになっています 。<br>
  <br>
 
 ## **🚸注意🚸**
@@ -19,6 +23,7 @@ GoogleColab無料版でStableDiffusionなど画像生成AIの利用が禁止と�
 |  colabリンク  |  モデル名  |  モデル特徴  | VAE  |
 | ---- |:----:|:----:|:----:|
 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nekoniii3/stable-diffusion-webui-colab/blob/main/V1.1/stable_diffusion1_5_webui_controlnetV1_1.ipynb)  |  **stable-diffusion1.5**  |  全ての基になったモデル  |  ー  |
+|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nekoniii3/stable-diffusion-webui-colab/blob/main/V1.1/Realistic_Vision1_4_webui_controlnetV1_1.ipynb)  |  **Realistic-Vision1.4**  |  stable-diffusion1.5をベースに実写に特化したモデル  |  ー  |
 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nekoniii3/stable-diffusion-webui-colab/blob/main/V1.1/anythingv4_5_webui_controlnetV1_1.ipynb)  |  **anything-v4.5**  |  イラスト(2次元)特化モデル  |  ○  |
 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nekoniii3/stable-diffusion-webui-colab/blob/main/V1.1/animelike2d_webui_controlnetV1_1.ipynb)   |  **animelike2d**  |  某アニメ会社のようなイラスト  |  ー  |
 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nekoniii3/stable-diffusion-webui-colab/blob/main/V1.1/Chilloutmix_webui_controlnetV1_1.ipynb)  |  **Chilloutmix**  | AIコスプレと言われるリアルな人間の画像 |  ー  |
