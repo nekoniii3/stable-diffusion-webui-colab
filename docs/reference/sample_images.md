@@ -1,5 +1,5 @@
 # **ControlNet-Referenceのサンプル画像です**
-基本的にPreprocessorは"reference-only"で何も記載がなければControl Mode="Balanced" Style Fidelity=0.5にして実行してます。
+基本的にPreprocessorは"reference-only"で何も記載がなければControl Mode="Balanced" Style Fidelity=0.5で実行してます。
 <br>
 Referenceの動画での紹介は[こちら](https://youtu.be/rVUXf823o6Q)
 
@@ -63,4 +63,6 @@ Referenceの動画での紹介は[こちら](https://youtu.be/rVUXf823o6Q)
 |  ![](images/woman-adain-attn-SF1.0.png)  |  ![](images/woman-adain-attn-ci.png) |
 <br>
 
-**開発者よりreference_adain+attnでStyle Fidelity=1.0が最も強力とのことですが顔がだいぶ変わってしまうようです。推奨はreference_onlyでStyle Fidelity=0.5。**
+**開発者よりreference_adain+attnでStyle Fidelity=1.0が最も強力とのことですが顔がだいぶ変わってしまうようです。**
+<br>
+**推奨はreference_onlyでStyle Fidelity=0.5。**
