@@ -3,15 +3,15 @@ Stable-Diffusion-1.5:
   filename: v1-5-pruned-emaonly.ckpt
   vaepath: 
 Stable-Diffusion-2.1:
-  path: https://huggingface.co/stabilityai/stable-diffusion-2-1/tree/main/
+  path: https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/
   filename: v2-1_768-ema-pruned.ckpt
   vaepath:
 Anything-v4.5: 
-  path: https://huggingface.co/ckpt/anything-v4.0/tree/main/
+  path: https://huggingface.co/ckpt/anything-v4.0/resolve/main/
   filename: anything-v4.5-pruned.ckpt
   vaepath: anything-v4.0.vae.pt
 Chilloutmix:
-  path: https://huggingface.co/ckpt/chilloutmix/tree/main/
+  path: https://huggingface.co/ckpt/chilloutmix/resolve/main/
   filename: chilloutmix_NiPrunedFp32Fix.safetensors
   vaepath:
 Realistic-Vision1.4:
