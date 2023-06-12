@@ -1,0 +1,28 @@
+Stable-Diffusion-1.5: 
+  path: https://huggingface.co/ckpt/sd15/resolve/main/
+  filename: v1-5-pruned-emaonly.ckpt
+  vaepath: 
+Stable-Diffusion-2.1:
+  path: https://huggingface.co/stabilityai/stable-diffusion-2-1/tree/main/
+  filename: v2-1_768-ema-pruned.ckpt
+  vaepath:
+Anything-v4.5: 
+  path: https://huggingface.co/ckpt/anything-v4.0/tree/main/
+  filename: anything-v4.5-pruned.ckpt
+  vaepath: anything-v4.0.vae.pt
+Chilloutmix:
+  path: https://huggingface.co/ckpt/chilloutmix/tree/main/
+  filename: chilloutmix_NiPrunedFp32Fix.safetensors
+  vaepath:
+Realistic-Vision1.4:
+  path: https://huggingface.co/SG161222/Realistic_Vision_V1.4/resolve/main/
+  filename: Realistic_Vision_V1.4-pruned-fp16.safetensors
+  vaepath:
+Animelike2d:
+  path: https://huggingface.co/stb/animelike2d/resolve/main/
+  filename: animelike25D_animelike25DV11Pruned.safetensors
+  vaepath:
+Counterfeit2.5:
+  path: https://huggingface.co/gsdf/Counterfeit-V2.5/resolve/main/
+  filename: Counterfeit-V2.5_pruned.safetensors
+  vaepath: Counterfeit-V2.5.vae.pt
